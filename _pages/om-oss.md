@@ -2,6 +2,9 @@
 layout: page
 title: Om oss
 permalink: /om-oss/
+redirect_from:
+  - /se/om-oss/
+  - /se/om-oss/historia/
 ---
 
 LiTHe Blås är orkestern som hängivet ägnar sig åt studentmusik. Våra färger är blå och off-yellow och vi kommer från Linköpings universitet. Som sig bör har vi också en sprudlande balett som alltid lyckas locka publiken till skratt! LiTHe Blås brukar uppträda på diverse muntra tillställningar på universitetet eller på företagsevent. Både i Linköping och annorstädes i vårt vackra land. Ibland räcker inte ens Sverige till. Då styr vi kosan mot mer exotiska länder, bl.a. under Eurotour.
