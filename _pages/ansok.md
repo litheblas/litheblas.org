@@ -4,6 +4,8 @@ title: Boka
 permalink: /boka/
 ---
 
+**För närvarande har vi inte möjlighet att ses och repa som vanligt och har därför valt att inte anta några nya medlemmar just nu. Håll utkik på våra sociala medier för information om när vi börjar repa igen.**
+
 ## När som helst, var som helst, hur som helst!
 Vi utformar Din spelning efter Dina önskemål, men Du kan också välja mellan våra färdiga och beprövade uppträdanden:
 
