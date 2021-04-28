@@ -1,16 +1,23 @@
 ---
 layout: page
-title: Ansök
-permalink: /ansok/
+title: Boka
+permalink: /boka/
 ---
 
-### Om du studerar eller arbetar på Linköpings universitet kan du ansöka om medlemskap. Gör det redan idag!
+## När som helst, var som helst, hur som helst!
+Vi utformar Din spelning efter Dina önskemål, men Du kan också välja mellan våra färdiga och beprövade uppträdanden:
 
-## Så gör du
-Skriv ner din ansökan på ett lämpligt medium (ett papper är enkelt och bra, men kreativa varianter av ansökningar uppskattas också!) som du sedan rusar iväg och lämnar i brevlådan utanför Blåsrummet i Kårallen. Du kan såklart även skicka din ansökan med posten, men e-post är fel sätt. Vill du posta din ansökan hittar du vår adress längst ner på sidan.
+* Showspelning i högt tempo med orkester och balett (ca 45 minuter).
+* Kortare variant av ovanstående, vanligen till invigningar eller som reklam för andra aktiviteter (15 till 30 minuter).
+* Har du andra önskemål, såsom marscherande spelning eller spelning till dans, så kontakta spelraggaren.
 
-I din ansökan skriver du ner allt som kan vara av intresse att veta om dig. Det kan till exempel vara lämpligt att skriva vad du heter, var du bor och vilket/vilka instrument du skulle kunna tänka dig att hantera i orkestern eller om du tänkt dig en karriär i baletten. Men även annat kan vara intressant. Tänk på att styrelsen brukar ha gräsligt tråkiga styrelsemöten, där en roande och välformulerad ansökan kan lysa upp som ett värmeljus en gråkall novemberdag.
+## Krävs extra utrustning?
+Svaret är definitivt nej! LiTHe Blås är en flexibel orkester som är van att spela på de mest varierande ställen, och kräver därför inget utöver:
 
-Blåsrummet hittar du i källarvåningen i Kårallen, i korridoren som börjar strax bortom Baljanfiket. Vi delar rummet med Linköpings Studentspex, så det kan hända att dörren är tapetserad med annat än våra affischer. Under raster sitter det ofta någon blåsare där inne, och då är det bara att sticka in huvudet om man har något att fråga.
+* En fri yta på ca 7x5 m² och tillgång till 230 V eluttag.
+* Rum eller avskild plats någonstans i närheten av orkestern där baletten kan förbereda sig mellan sina nummer.
+* En publik som vill se studentmusik när den är som bäst!
+* Vi håller med ljudanläggning och erforderliga förlängningskablar, det vill säga mindre problem för Dig.
 
-Har du några andra funderingar så tveka inte att kontakta oss (men ansökningar bör komma pappersledes).
+## Boka oss
+Har du frågor eller vill boka oss så tveka inte att kontakta vår spelraggare. Du hittar kontaktuppgifter på vår kontaktsida.
