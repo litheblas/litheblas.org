@@ -4,8 +4,6 @@ title: Ansök
 permalink: /ansok/
 ---
 
-<p class="well"><strong>För närvarande har vi inte möjlighet att ses och repa som vanligt och har därför valt att inte anta några nya medlemmar just nu. Håll utkik på våra sociala medier för information om när vi börjar repa igen.</strong></p>
-
 ### Om du studerar eller arbetar på Linköpings universitet kan du ansöka om medlemskap. Gör det redan idag!
 
 ## Så gör du
