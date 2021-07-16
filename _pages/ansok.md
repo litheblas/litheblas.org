@@ -14,3 +14,9 @@ I din ansökan skriver du ner allt som kan vara av intresse att veta om dig. Det
 Blåsrummet hittar du i källarvåningen i Kårallen, i korridoren som börjar strax bortom Baljanfiket. Vi delar rummet med Linköpings Studentspex, så det kan hända att dörren är tapetserad med annat än våra affischer. Under raster sitter det ofta någon blåsare där inne, och då är det bara att sticka in huvudet om man har något att fråga.
 
 Har du några andra funderingar så tveka inte att kontakta oss (men ansökningar bör komma pappersledes).
+
+Adress för att posta ansökan:<br>
+LiTHe Blås<br>
+Kårallen, Linköpings universitet<br>
+581 83 Linköping<br>
+Sverige
