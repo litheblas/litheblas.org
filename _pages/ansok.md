@@ -4,7 +4,9 @@ title: Ansök
 permalink: /ansok/
 ---
 
-### Om du studerar eller arbetar på Linköpings universitet kan du ansöka om medlemskap. Gör det redan idag!
+### Om du studerar eller arbetar på Linköpings universitet kan du ansöka om medlemskap. Gör det redan idag
+
+Vi söker löpande nya medlemmar! Just nu söker vi speciellt efter fler till **herrbaletten**, **flöjt**, **klarinett**, **tenorsaxofon**, och **barytonsaxofon** (vi har en egen barytonsaxofon som man kan låna), men vi tar gärna andra ansökningar också.
 
 ## Vilka är LiTHe Blås egentligen?
 
