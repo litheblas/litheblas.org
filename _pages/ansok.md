@@ -8,7 +8,7 @@ permalink: /ansok/
 
 Vi söker löpande nya medlemmar! Just nu söker vi speciellt efter fler till **flöjt**, **klarinett**, **tenorsaxofon**, och **barytonsaxofon** (vi har en egen barytonsaxofon som man kan låna), men vi tar gärna andra ansökningar också. -->
 
-Vi söker nya medlemmar! Ansök helst innan 11e september 18:00.
+<!-- Vi söker nya medlemmar! Ansök helst innan 11e september 18:00. -->
 
 ## Vilka är LiTHe Blås egentligen?
 
