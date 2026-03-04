@@ -20,7 +20,7 @@ Skriv ner din ansökan på ett lämpligt medium (ett papper är enkelt och bra, 
 
 I din ansökan skriver du ner allt som kan vara av intresse att veta om dig. Det kan till exempel vara lämpligt att skriva vad du heter, var du bor och vilket/vilka instrument du skulle kunna tänka dig att hantera i orkestern eller om du tänkt dig en karriär i baletten. Men även annat kan vara intressant. Tänk på att styrelsen brukar ha gräsligt tråkiga styrelsemöten, där en roande och välformulerad ansökan kan lysa upp som ett värmeljus en gråkall novemberdag.
 
-Blåsrummet hittar du i källarvåningen i Kårallen, i korridoren som börjar strax bortom Baljanfiket. Vi delar rummet med Linköpings Studentspex, så det kan hända att dörren är tapetserad med annat än våra affischer. Under raster sitter det ofta någon blåsare där inne, och då är det bara att sticka in huvudet om man har något att fråga.
+Blåsrummet hittar du i källarvåningen i Kårallen, i korridoren som börjar strax bortom Baljanfiket. Under raster sitter det ofta någon blåsare där inne, och då är det bara att sticka in huvudet om man har något att fråga.
 
 Har du några andra funderingar så tveka inte att kontakta oss (men ansökningar bör komma pappersledes).
 
